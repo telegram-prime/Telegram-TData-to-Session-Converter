@@ -2,7 +2,7 @@
 ## Converts Telegram TData format files to Telegram .session format (or .session + .json).
  
  * Описание программы так же доступно на русском языке. См. [TD2S Coverter RUS](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-RU/) [in progress]
- * 描述也可以在Chineese中提供。 参见 [TD2S Coverter CN](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN) [in progress]
+ * 描述也可以在Chineese中提供。 参见 [TD2S Coverter CN](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN)
 
 
 ## Functionality:
