@@ -37,16 +37,19 @@
 
 
 ##  Contacts:
-- Email: manager[@]telegramprime.net
-- Telegram: @TGG_Sales
+- Email:    manager[@]telegramprime.net
+- Telegram: [Send message](https://telegramprime.com/telegram-contact)
+- ICQ:      [Send message](https://telegramprime.com/icq-contact)
+- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
+- Discord:  [Send message](https://telegramprime.com/discord-contact)
 
-* or via the Contact Form on our Telegram PRIME website:
+* or via the Contact Form on our website:
 - Wеb: https://telegramprime.net/ - EN Version
 - Wеb: https://telegramprime.com/ - RU Version
 
 
 ## Donations:
-* [Buy us a coffee :)](https://commerce.coinbase.com/checkout/a0495346-539e-48df-9b43-880a3b93dc8b)
+* [Buy us a coffee :)](https://nowpayments.io/donation/telegramprime)
 * Thank you!
 
 
