@@ -1,12 +1,14 @@
-# TD2S Converter - Telegram Accounts TData to .session Converter.
+# TD2S Converter - Telegram TData accounts to .session (or session+json) converter.
 ## Converts Telegram TData format files to Telegram .session format (or .session + .json).
  
- * Описание программы так же доступно на русском языке. См. [TD2S Coverter RUS](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-RU/) [in progress]
+ * Описание программы так же доступно на русском языке. См. [TD2S Coverter RUS](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-RU/)
  * 描述也可以在Chineese中提供。 参见 [TD2S Coverter CN](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN)
 
 
-## Functionality:
- - Converts Telegram accounts TData format files to Telegram .session format (or .session + .json).
+## Features:
+ - Converts Telegram accounts TData format files to Telegram .session format (or .session + .json);
+ - Multi-threaded work;
+ - Option to either create a new session for account, or to keep current session;
  - Use, control and adjust device settings that used to connect to TData;
  - Use unique HTTP or SOCKS5 proxy for each connection to session (multi-line supported);
  - Skips bad TData if not connected;
@@ -27,21 +29,24 @@
 - 3.  Unlimited number of converts (operations) for lifetime period.
 
 
+## Videos:
+- [YouTube](https://youtu.be/hpfbXPWjLqs)
+
+
 ## Screenshots:
 
-<img width="393" alt="TD2S_001" src="https://user-images.githubusercontent.com/94137664/209485859-b85b762e-b36a-46bf-bcbf-2d4cfa420270.png"> <img width="392" alt="TD2S_002" src="https://user-images.githubusercontent.com/94137664/209485861-a6fa3f0d-4fab-4a0d-ad27-ecf7a4c35c6f.png">
-<img width="393" alt="TD2S_003" src="https://user-images.githubusercontent.com/94137664/209485858-0e3b9131-8ba8-4c99-8984-da5ca6a0c001.png"> <img width="392" alt="TD2S_004" src="https://user-images.githubusercontent.com/94137664/209485856-91316d3f-4f6c-4c71-86e1-90de1b930b87.png">
+![TD2S_v 1 6_EN_001](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter/assets/94137664/981e84ba-4462-4235-8ab1-6e7a421aaa00) ![TD2S_v 1 6_EN_002](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter/assets/94137664/b50b4805-2891-407f-9e5f-1d061388e53a)
+![TD2S_v 1 6_EN_003](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter/assets/94137664/7f7277aa-2acc-4f2e-934e-33d0518a57d5) ![TD2S_v 1 6_EN_004](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter/assets/94137664/e5526067-bc8a-416e-8bc6-d5cbfa9901e2)
 
-## Videos:
-- [YouTube](https://youtu.be/1OCWyrkrbwU)
 
 
 ##  Contacts:
 - Email:    manager[@]telegramprime.net
-- Telegram: [Send message](https://telegramprime.com/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.com/icq-contact)
-- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
-- Discord:  [Send message](https://telegramprime.com/discord-contact)
+- Telegram: [Send message](https://telegramprime.net/telegram-contact)
+- ICQ:      [Send message](https://telegramprime.net/icq-contact)
+- TamTam:   [Send message](https://telegramprime.net/tamtam-contact)
+- Discord:  [Send message](https://telegramprime.net/discord-contact)
+- Element:  [Send message](https://telegramprime.net/element-contact)
 
 * or via the Contact Form on our website:
 - Wеb: https://telegramprime.net/ - EN Version
