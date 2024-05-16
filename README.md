@@ -17,16 +17,16 @@
  - Make back-up of the source files before operation.
 
 
-## We offer FREE trial usage period for 24 hours and for that period user will be given 5 converts (operations) to test and ensure before purchase that everything works fine. 
+## We offer FREE trial usage period for 24 hours and for that period user will be able to convert 25 accounts per 5 operations to test and ensure before purchase that everything works fine. 
 
 ## Download:
  - [Always Latest Release](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter/releases/latest)
 
 
 ## After trial period ended this product is available under several paid subscriptions: 
-- 1.  100  converts (operations) for 30 days period (Whichever comes first).
-- 2.  1000 converts (operations) for 365 days period (Whichever comes first).
-- 3.  Unlimited number of converts (operations) for lifetime period.
+- 1.  30 days or 1000 accounts (whichever comes first)
+- 2.  365 days or 10000 accounts (whichever comes first)
+- 3.  Lifetime with Unlimited accounts
 
 
 ## Videos:
