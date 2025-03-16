@@ -9,6 +9,8 @@
  - Converts Telegram account sessions in TDATA (Telegram Desktop) accounts to SESSION format (or SESSION+JSON).
  - Multithreaded operation.
  - Option to create a new session for an account or save the current session.
+ - Option to save TDATA for new account's session. Basically used as a TDATA re-auth function.
+ - Option to set custom number of connection re-tries and connection delays.
  - Supports the option to disable other sessions on the account during conversion or re-authorization.
  - Flexible configuration of emulation of devices used to connect to the session.
  - Configuration of the use of unique HTTP or SOCKS5 to connect to the session (support for a large number of proxies).
