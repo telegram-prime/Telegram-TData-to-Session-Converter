@@ -74,7 +74,7 @@ A tool that converts Telegram Desktop TDATA accounts to Telegram session files (
 | Email | manager[@]telegram-converter.com |
 | Telegram | [Send message](https://telegram-converter.com/telegram-contact) |
 | Discord | [Send message](https://telegram-converter.com/discord-contact) |
-| Element | [Send message](https://telegram-converter.com/matrix-contact) |
+| Matrix | [Send message](https://telegram-converter.com/matrix-contact) |
 | Website | https://telegram-converter.com/ |
 
 ---
